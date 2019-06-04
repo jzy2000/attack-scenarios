@@ -1,0 +1,1 @@
+- An attacker steals an API key of service account, uses that to enumerate user, group, policies, network config of the cloud infrastructure, tried to re-enable root account, create DB backup and snapshots and download protected files from cloud storage.
