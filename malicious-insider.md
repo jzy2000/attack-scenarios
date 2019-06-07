@@ -4,4 +4,6 @@
 
 - After normal business hours, a user with admin privilege created high GPU-power instances(via console or API), launched crypto mining.
 
-- Am employee had a multi-gigabyte file preview + file list + file download in 2 weeks before resignation, majority of data location had never been accessed by this employee.
+- An employee had a multi-gigabyte file preview + file list + file download in 2 weeks before resignation, majority of data location had never been accessed by this employee.
+
+- Mailbox of company’s top executive was accessed by an admin user.
